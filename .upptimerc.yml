@@ -20,8 +20,9 @@ sites:
   - name: Pakat Support
     url: https://help.pakat.net
   - name: Pakat API
-    url: https://api.pakat.net
+    url: $PAKAT_API
   - name: Pakat SMTP
+    check: "tcp-ping"
     url: https://smtp.pakat.net
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
