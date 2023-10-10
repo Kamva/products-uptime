@@ -58,18 +58,20 @@
     "url": "https://kawaiishop.ir",
     "icon": "https://icons.duckduckgo.com/ip3/kawaiishop.ir.ico",
     "slug": "kamva-storefront",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 4575,
     "timeDay": 2281,
     "timeWeek": 4575,
     "timeMonth": 4575,
     "timeYear": 4575,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-10": 0
+    }
   },
   {
     "name": "Kamva Support",
@@ -77,13 +79,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.kamva.ir.ico",
     "slug": "kamva-support",
     "status": "up",
-    "uptime": "73.55%",
-    "uptimeDay": "71.06%",
-    "uptimeWeek": "73.55%",
-    "uptimeMonth": "73.55%",
-    "uptimeYear": "73.55%",
+    "uptime": "73.79%",
+    "uptimeDay": "71.42%",
+    "uptimeWeek": "73.79%",
+    "uptimeMonth": "73.79%",
+    "uptimeYear": "73.79%",
     "time": 7736,
-    "timeDay": 7913,
+    "timeDay": 8046,
     "timeWeek": 7736,
     "timeMonth": 7736,
     "timeYear": 7736,
@@ -164,7 +166,7 @@
     "timeMonth": 1472,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2023-10-10": 572,
+      "2023-10-10": 598,
       "2023-10-09": 1440,
       "2023-10-08": 869
     }
