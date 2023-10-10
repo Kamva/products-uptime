@@ -1,7 +1,7 @@
 url: https://support.kamva.ir
-status: up
-code: 200
-responseTime: 12500
-lastUpdated: 2023-10-10T12:11:21.865Z
+status: down
+code: 502
+responseTime: 1268
+lastUpdated: 2023-10-10T12:59:36.361Z
 startTime: 2023-10-08T09:30:45.894Z
 generator: Upptime <https://github.com/upptime/upptime>
