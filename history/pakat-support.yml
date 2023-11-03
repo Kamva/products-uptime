@@ -1,7 +1,7 @@
 url: https://help.pakat.net
-status: up
-code: 200
-responseTime: 3580
-lastUpdated: 2023-11-03T17:07:11.305Z
+status: down
+code: 502
+responseTime: 16177
+lastUpdated: 2023-11-03T20:30:25.778Z
 startTime: 2023-10-08T09:31:01.877Z
 generator: Upptime <https://github.com/upptime/upptime>
