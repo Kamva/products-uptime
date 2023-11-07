@@ -21,10 +21,10 @@ sites:
     url: https://help.pakat.net
   - name: Pakat API
     url: $PAKAT_API
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
+    # expectedStatusCodes:
+    #   - 200
+    #   - 201
+    #   - 404
   # - name: Pakat SMTP
   #   check: "tcp-ping"
   #   url: https://smtp.pakat.net
