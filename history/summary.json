@@ -128,11 +128,11 @@
     "url": "https://support.kamva.ir",
     "icon": "https://icons.duckduckgo.com/ip3/support.kamva.ir.ico",
     "slug": "kamva-support",
-    "status": "up",
+    "status": "down",
     "uptime": "94.52%",
-    "uptimeDay": "67.33%",
+    "uptimeDay": "67.31%",
     "uptimeWeek": "65.37%",
-    "uptimeMonth": "85.24%",
+    "uptimeMonth": "85.26%",
     "uptimeYear": "94.52%",
     "time": 12121,
     "timeDay": 11404,
@@ -152,7 +152,7 @@
       "2023-12-20": 560,
       "2023-12-19": 528,
       "2023-12-18": 790,
-      "2023-12-17": 369
+      "2023-12-17": 360
     }
   },
   {
@@ -287,7 +287,7 @@
     "timeMonth": 0,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2023-12-29": 400,
+      "2023-12-29": 409,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
