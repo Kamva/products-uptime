@@ -178,11 +178,11 @@
     "url": "https://support.kamva.ir",
     "icon": "https://icons.duckduckgo.com/ip3/support.kamva.ir.ico",
     "slug": "kamva-support",
-    "status": "up",
+    "status": "down",
     "uptime": "97.85%",
-    "uptimeDay": "97.54%",
-    "uptimeWeek": "98.41%",
-    "uptimeMonth": "99.16%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "97.85%",
     "time": 11683,
     "timeDay": 11413,
@@ -215,7 +215,7 @@
       "2024-01-23": 636,
       "2024-01-22": 681,
       "2024-01-21": 606,
-      "2024-01-20": 266
+      "2024-01-20": 258
     }
   },
   {
@@ -224,11 +224,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pakat.net.ico",
     "slug": "pakat-landing",
     "status": "up",
-    "uptime": "97.19%",
+    "uptime": "97.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "97.19%",
+    "uptimeYear": "97.20%",
     "time": 1872,
     "timeDay": 1361,
     "timeWeek": 1518,
@@ -386,7 +386,7 @@
     "timeMonth": 0,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2024-03-01": 1038,
+      "2024-03-01": 1365,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
