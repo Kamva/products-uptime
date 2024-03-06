@@ -331,9 +331,9 @@
     "url": "https://help.pakat.net",
     "icon": "https://icons.duckduckgo.com/ip3/help.pakat.net.ico",
     "slug": "pakat-support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.41%",
@@ -343,6 +343,7 @@
     "timeMonth": 3460,
     "timeYear": 4361,
     "dailyMinutesDown": {
+      "2024-03-06": 0,
       "2024-02-18": 38,
       "2024-02-11": 12,
       "2024-01-31": 26,
@@ -399,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2024-03-06": 809,
+      "2024-03-06": 827,
       "2024-03-05": 1440,
       "2024-03-04": 1440,
       "2024-03-03": 1440,
