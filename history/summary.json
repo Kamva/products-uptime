@@ -6,7 +6,7 @@
     "slug": "kamva-landing",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "94.94%",
+    "uptimeDay": "95.05%",
     "uptimeWeek": "97.71%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.42%",
@@ -194,7 +194,7 @@
     "status": "up",
     "uptime": "98.39%",
     "uptimeDay": "96.55%",
-    "uptimeWeek": "96.62%",
+    "uptimeWeek": "96.76%",
     "uptimeMonth": "98.49%",
     "uptimeYear": "98.39%",
     "time": 11694,
@@ -340,12 +340,12 @@
     "url": "https://help.pakat.net",
     "icon": "https://icons.duckduckgo.com/ip3/help.pakat.net.ico",
     "slug": "pakat-support",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "96.01%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "95.98%",
     "uptimeWeek": "98.40%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.36%",
     "time": 4745,
     "timeDay": 8087,
     "timeWeek": 8238,
@@ -390,7 +390,7 @@
       "2023-11-03": 22,
       "2023-11-02": 7,
       "2023-10-28": 61,
-      "2023-10-27": 212
+      "2023-10-27": 186
     }
   },
   {
@@ -410,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2024-03-08": 993,
+      "2024-03-08": 1032,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
       "2024-03-05": 1440,
