@@ -4,12 +4,12 @@
     "url": "https://kamva.ir",
     "icon": "https://icons.duckduckgo.com/ip3/kamva.ir.ico",
     "slug": "kamva-landing",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "94.31%",
-    "uptimeWeek": "96.90%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "94.29%",
+    "uptimeWeek": "96.89%",
     "uptimeMonth": "99.21%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.43%",
     "time": 3104,
     "timeDay": 6432,
     "timeWeek": 6877,
@@ -48,8 +48,7 @@
       "2023-11-14": 7,
       "2023-11-12": 92,
       "2023-11-11": 72,
-      "2023-10-28": 39,
-      "2023-10-27": 18
+      "2023-10-28": 39
     }
   },
   {
@@ -414,7 +413,7 @@
     "timeMonth": 0,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2024-03-09": 690,
+      "2024-03-09": 706,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
