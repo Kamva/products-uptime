@@ -211,7 +211,7 @@
     "uptime": "98.92%",
     "uptimeDay": "99.35%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "94.80%",
+    "uptimeMonth": "94.81%",
     "uptimeYear": "98.92%",
     "time": 11231,
     "timeDay": 12704,
@@ -380,17 +380,17 @@
     "url": "https://help.pakat.net",
     "icon": "https://icons.duckduckgo.com/ip3/help.pakat.net.ico",
     "slug": "pakat-support",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "99.39%",
+    "uptimeDay": "99.36%",
     "uptimeWeek": "99.91%",
     "uptimeMonth": "95.93%",
     "uptimeYear": "98.95%",
-    "time": 4533,
-    "timeDay": 1383,
-    "timeWeek": 1637,
-    "timeMonth": 3416,
-    "timeYear": 4533,
+    "time": 4566,
+    "timeDay": 5133,
+    "timeWeek": 3112,
+    "timeMonth": 3691,
+    "timeYear": 4566,
     "dailyMinutesDown": {
       "2024-04-26": 9,
       "2024-04-11": 1052,
@@ -435,7 +435,7 @@
       "2023-11-11": 39,
       "2023-11-03": 22,
       "2023-11-02": 7,
-      "2023-10-28": 23
+      "2023-10-28": 8
     }
   },
   {
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 1472,
     "dailyMinutesDown": {
-      "2024-04-26": 590,
+      "2024-04-26": 650,
       "2024-04-25": 1440,
       "2024-04-24": 1440,
       "2024-04-23": 1440,
